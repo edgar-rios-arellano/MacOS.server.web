@@ -1,0 +1,429 @@
+~$
+~$ $_py.html5
+bash: .html5: command not found
+~$ ~{auto-Robot}=%~
+bash: ~{auto-Robot}=%~: command not found
+~$ *123456*/%
+bash: *123456*/%: No such file or directory
+~$ $pakage-xvode~
+bash: -xvode~: command not found
+~$ {
+> Sys.HDD/emule.dir
+> dir.edgarriosarellano:/>ini.server.google.drive:/>
+bash: syntax error near unexpected token `newline'
+~$ ^[[A^[^C
+~$ ^[^[[24~
+bash: [24~: command not found
+~$ C+.iO:/MS-Dos.HDD/emule.dir
+bash: C+.iO:/MS-Dos.HDD/emule.dir: No such file or directory
+~$ C++(.iO):.OS/Ms-Dos.HDD/emule.dir:*.pakage:/>
+bash: syntax error near unexpected token `.iO'
+~$ Xcode.xip:/>sys.dir/emule.HDD$_ahead(low:speed)+ahead(hight:speed)/:>bash: syntax error near unexpected token `('
+~$ ^[[[A
+bash: A: command not found
+~$ ^[/^[^[^[^[[1;5F^[^[[[A
+
+Display all 349 possibilities? (y or n)yes
+
+!                             logout
+./                            logwrapper
+:                             losetup
+[                             ls
+[[                            lshal
+]]                            lsmod
+acpi                          lsof
+alias                         lspci
+am                            lsusb
+apdumper                      mapfile
+app_process                   md5sum
+app_process32                 media
+app_process64                 microcom
+applypatch                    mkdir
+appops                        mkfifo
+appwidget                     mkfs.exfat
+aprctl                        mkfs.f2fs_ota
+audio_hardware_test           mknod
+awk                           mkswap
+base64                        mktemp
+basename                      modinfo
+bash                          modprobe
+bcc                           monkey
+bind                          more
+blockdev                      mosh-client
+bmgr                          mount
+break                         mount.exfat
+btools                        mountpoint
+bu                            mv
+bugreport                     ndc
+bugreportz                    netstat
+builtin                       newfs_msdos
+bunzip2                       nice
+bzcat                         nl
+--More--
+bzip2                         nohup
+--More--
+cal                           oatdump
+--More--
+calibration_init              od
+--More--
+caller                        paste
+--More--
+case                          patch
+--More--
+cat                           patchoat
+--More--
+cd                            pgrep
+--More--
+chcon                         pidof
+--More--
+chgrp                         ping
+--More--
+chmod                         ping6
+--More--
+chown                         pkill
+--More--
+chroot                        pm
+--More--
+chrt                          pmap
+--More--
+cksum                         popd
+--More--
+clear                         printenv
+--More--
+cmd                           printf
+--More--
+cmdclient                     ps
+--More--
+cmp                           pushd
+--More--
+comm                          pvrdebug
+--More--
+command                       pvrhtb2txt
+--More--
+compgen                       pvrhtbd
+--More--
+complete                      pvrhwperf
+--More--
+compopt                       pvrlogdump
+--More--
+connmgr_cli                   pvrlogsplit
+--More--
+content                       pvrtld
+--More--
+continue                      pwd
+--More--
+coproc                        query_task_fd
+--More--
+cp                            radvd
+--More--
+cpio                          read
+--More--
+cplogctl                      readarray
+--More--
+crash_dump32                  readlink
+--More--
+crash_dump64                  readonly
+--More--
+cut                           realpath
+--More--
+dalvikvm                      reboot
+--More--
+dalvikvm32                    renice
+--More--
+dalvikvm64                    requestsync
+--More--
+date                          restorecon
+--More--
+dd                            return
+--More--
+debuggerd                     rm
+--More--
+declare                       rmdir
+--More--
+dex2oat                       rmmod
+--More--
+dexdiag                       rscompiler
+--More--
+dexdump                       runcon
+--More--
+dexlist                       schedtest
+--More--
+df                            screencap
+--More--
+dhcp6s                        screenrecord
+--More--
+diff                          secdiscard
+--More--
+dirname                       sed
+--More--
+dirs                          select
+--More--
+dmesg                         sendevent
+--More--
+do                            sensorservice
+--More--
+done                          seq
+--More--
+dos2unix                      service
+--More--
+dpm                           set
+--More--
+du                            setenforce
+--More--
+dumpsys                       setprop
+--More--
+echo                          setsid
+--More--
+egrep                         settings
+--More--
+elif                          sgm.cpu_memory
+--More--
+else                          sh
+--More--
+enable                        sha1sum
+--More--
+enhance_test                  sha224sum
+--More--
+env                           sha256sum
+--More--
+esac                          sha384sum
+--More--
+eval                          sha512sum
+--More--
+exec                          shift
+--More--
+exit                          shopt
+--More--
+expand                        sleep
+--More--
+export                        sm
+--More--
+expr                          sort
+--More--
+fallocate                     source
+--More--
+false                         split
+--More--
+fc                            start
+--More--
+fgrep                         stat
+--More--
+fi                            stop
+--More--
+file                          strings
+--More--
+find                          stty
+--More--
+flock                         svc
+--More--
+flush_slog_modem              swapoff
+--More--
+fm_tools                      swapon
+--More--
+fmt                           sync
+--More--
+for                           sysctl
+--More--
+free                          tac
+--More--
+function                      tail
+--More--
+gatordstart                   tar
+--More--
+getenforce                    taskset
+--More--
+getevent                      tc
+--More--
+getopts                       tcpdump
+--More--
+getprop                       tee
+--More--
+grep                          telecom
+--More--
+groups                        telnet
+--More--
+gunzip                        test
+--More--
+gzip                          then
+--More--
+hash                          time
+--More--
+hcidump                       timeout
+--More--
+head                          times
+--More--
+help                          tinymix
+--More--
+hid                           toolbox
+--More--
+history                       top
+--More--
+hostname                      touch
+--More--
+hs20-osu-client               toybox
+--More--
+hwclock                       tr
+--More--
+id                            trap
+--More--
+if                            true
+--More--
+ifconfig                      truncate
+--More--
+ime                           tty
+--More--
+in                            type
+--More--
+inotifyd                      typeset
+--More--
+inotifytools_test             uiautomator
+--More--
+inotifywait                   ulimit
+--More--
+inotifywatch                  umask
+--More--
+input                         umount
+--More--
+insmod                        unalias
+--More--
+iodebug                       uname
+--More--
+ionice                        uniq
+--More--
+iorenice                      unix2dos
+--More--
+ip                            unset
+--More--
+ip6tables                     until
+--More--
+ip6tables-restore             uptime
+--More--
+ip6tables-save                usleep
+--More--
+iptables                      uudecode
+--More--
+iptables-restore              uuencode
+--More--
+iptables-save                 vmstat
+--More--
+iwnpi                         vndservice
+--More--
+keystore_cli_v2               vr
+--More--
+kill                          wait
+--More--
+killall                       wc
+--More--
+ld.mc                         which
+--More--
+let                           while
+--More--
+linker                        whoami
+--More--
+linker64                      wm
+--More--
+linker_asan                   xargs
+--More--
+linker_asan64                 xxd
+--More--
+ln                            yes
+--More--
+load_policy                   ylog_benchmark
+--More--
+local                         ylog_benchmark_socket_server
+--More--
+locksettings                  ylog_cli
+--More--
+log                           zcat
+--More--
+log_ctr                       {
+--More--
+logcat                        }
+--More--
+logname
+
+~$
+~$
+~$
+~$
+~$
+~$
+~$
+~$
+~$
+~$
+~$ >/ylog_benchmark:/>auto*.server
+bash: /ylog_benchmark:/: Is a directory
+~$ :/aneable{dir.edgarriosarellano:/>files.sys/emule.server
+bash: files.sys/emule.server: No such file or directory
+~$ server:/>192.168.1.3/port:8192*.connected:/>"volumen.dir'/"cpu.xip:emule.database"/"mather:board"iCore"set.auto"/Run.xip>
+> ~root.sys"trhue"/boot.dir"eneable"/HDD"emule":drive.goo.server+"https://www.icloud.com/#iDrive.xip"account:developerappleincmx@gmail.com"+"password:Developer1"/"password:"fail"+"result"=[calc]/:>"command"+"atemp"+"auto"+"recovery'password'auto_logged_keytrhue.coded"@developer.apple.com"status_:option"selected"="calc"+"tps://"extensions:Crhome'web'remore~:/>
+bash: syntax error near unexpected token `newline'
+~$ ^[[19~+^[[23~+^[[[C={%xcode.bitcalc*/.iO"command'+'W'+'R'={sysem'emule'.OS/:>
+> OS:/>Run
+> install*.*:/>MacOS.dir
+> Run.xip:/>bit.data
+> HDD/emule:/>test
+> ok:/>sys.Run
+> matherboard/emule:/>test
+> ok:/>icore.project
+> icore.project:/>install.pakage
+> Run[yes/No]:/>yes
+> done:/>Xcode.beta~
+> files/emule.dir@server.google.drive"yes":/>
+> install"Xcode.beta"software/drive.google.server"upload"_"read'files"_a_auto.bin"/emule.dll"database":/>
+> wibdowsISO
+> install>
+> Run.ini>
+> files'opened'/emule"database_arch"/'new_file_dir.atemp"="arch"name"+"date"+"result"auto.dir:/>
+bash: syntax error near unexpected token `newline'
+~$ ^[[18~+^[[[D+Z=~
+bash: 8~+D+Z=~: command not found
+~$ Mac_OS.op
+bash: Mac_OS.op: command not found
+~$ mac_OS.xip
+bash: mac_OS.xip: command not found
+~$ system.xip/emule>Run>
+bash: syntax error near unexpected token `newline'
+~$ ^[[[mapfile:/>]]]
+bash: mapfile:/: No such file or directory
+~$ */*
+bash: Android/data: Is a directory
+~$ */*(*#*#)/:>
+bash: syntax error near unexpected token `*#*#'
+~$ ^[[23~
+bash: 3~: command not found
+~$ ^[[24~
+bash: 4~: command not found
+~$ ^[[[A
+bash: A: command not found
+~$
+~$ ^[^R
+^[
+^[[B^[[B^[[B
+~$
+~$ /files.*
+bash: /files.*: No such file or directory
+~$ files:dir>
+bash: syntax error near unexpected token `newline'
+~$ database:.dir
+bash: database:.dir: command not found
+~$ Run:\Memory.test
+bash: Run:Memory.test: command not found
+~$ test
+~$ system
+bash: system: command not found
+~$ HDD
+bash: HDD: command not found
+~$ test
+~$ HDD
+bash: HDD: command not found
+~$ test
+~$ adress:Host"192.168.1.67
+> connected:network"ethernet".html
+> intall.pkg
+> Run.php
+> system.strim
+> test
+> >
+>
